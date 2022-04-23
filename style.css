@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.section-one{
+    background-image: url(./img/bg-image-1.jpg);
+}
